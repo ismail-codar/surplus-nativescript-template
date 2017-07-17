@@ -4,7 +4,7 @@ First time you can setup nativescript from [here](http://docs.nativescript.org/s
 
 ## Running this project
 1. `git clone https://github.com/ismail-codar/surplus-nativescript-template.git`
-2. `cd cd surplus-nativescript-template`
+2. `cd surplus-nativescript-template`
 3. `npm install`
 4. But there is an [issue](https://github.com/adamhaile/S/issues/2)
     1. Navigate .\node_modules\s-js folder.
