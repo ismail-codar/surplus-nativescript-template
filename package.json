@@ -1,4 +1,6 @@
 {
+  "name": "surplus-nativescript-template",
+  "version": "1.0.0",
   "description": "NativeScript Application",
   "license": "SEE LICENSE IN <your-license-filename>",
   "readme": "NativeScript Application",
@@ -11,10 +13,11 @@
   },
   "dependencies": {
     "nativescript-theme-core": "~1.0.2",
+    "tns-core-modules": "3.1.0",
+    "surplus-nativescript": "^1.0.0",
+    "s-js": "^0.4.3",
     "s-array": "^0.4.7",
-    "surplus": "^0.4.3",
-    "surplus-nativescript": "file:../surplus-nativescript",
-    "tns-core-modules": "3.1.0"
+    "surplus": "^0.4.3"
   },
   "devDependencies": {
     "babel-traverse": "6.4.5",
