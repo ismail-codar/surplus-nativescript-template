@@ -13,9 +13,9 @@ First time you can setup nativescript from [here](http://docs.nativescript.org/s
 5. Re-navigate surplus-nativescript-template folder and run `tns run android`
 
 ### Manual project configuration details
-2. `tns create my-app`
-3. `cd my-app`
-4. `npm install --save s-js s-array surplus surplus-nativescript` 
-5. create a tsconfig.json in my-app folder like [this content](https://github.com/ismail-codar/surplus-nativescript-template/blob/master/tsconfig.json)
-6. Setup hooks like [this](https://github.com/ismail-codar/surplus-nativescript-template/tree/master/hooks)
-7. Add the line `require("surplus-nativescript")` to the top of the ./app/app.js file
+1. `tns create my-app`
+2. `cd my-app`
+3. `npm install --save s-js s-array surplus surplus-nativescript` 
+4. create a tsconfig.json in my-app folder like [this content](https://github.com/ismail-codar/surplus-nativescript-template/blob/master/tsconfig.json)
+5. Setup hooks like [this](https://github.com/ismail-codar/surplus-nativescript-template/tree/master/hooks)
+6. Add the line `require("surplus-nativescript")` to the top of the ./app/app.js file
