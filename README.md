@@ -6,11 +6,7 @@ First time you can setup nativescript from [here](http://docs.nativescript.org/s
 1. `git clone https://github.com/ismail-codar/surplus-nativescript-template.git`
 2. `cd surplus-nativescript-template`
 3. `npm install`
-4. But there is an [issue](https://github.com/adamhaile/S/issues/2)
-    1. Navigate .\node_modules\s-js folder.
-    2. Open tsconfig.json and change compilerOptions\module to "commonjs"
-    2. Run `npm run build` command in this folder.  (Note: You must have global rollup installation via `npm install -g rollup`)
-5. Re-navigate surplus-nativescript-template folder and run `tns run android`
+4. `tns run android`
 
 ### Manual project configuration details
 1. `tns create my-app`
